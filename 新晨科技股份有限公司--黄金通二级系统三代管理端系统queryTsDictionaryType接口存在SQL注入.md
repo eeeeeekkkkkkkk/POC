@@ -36,6 +36,6 @@ sqlmap命
 ```plane
 python sqlmap.py -r 1.txt --force-ssl --level 5 --risk 3 --dbms Oracle
 ```
-![图片1](images/图片1.png)
+![wechat_2025-04-22_145646_063.png](images/wechat_2025-04-22_145646_063.png)
 
 
