@@ -26,5 +26,5 @@ Connection: close
 page=1&origApp2=&RENTSTATEID=&custTradeName=*
 ```
 
-![图片.png](images/图片2.png)
+![图片.png](images/)
 注出当前数据库为GOLD31
